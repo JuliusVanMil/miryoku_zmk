@@ -10,11 +10,11 @@ U_NP,              U_NP,              U_LT(U_FUN, ESC),  U_LT(U_NUM, BSPC), U_LT
 #define MIRYOKU_LAYER_NUM \
 &kp EXCL,          &kp AT,            &kp HASH,          &kp DLLR,          &kp PRCNT,         &kp PLUS,          &kp N7,            &kp N8,            &kp N9,            &kp GRAVE,         \
 &kp LGUI,          &kp LALT,          &kp LCTRL,         &kp LSHFT,         U_NA,              &kp EQUAL,         &kp N4,            &kp N5,            &kp N6,            &kp SEMI,          \
-&kp CARET,         &kp AMPS,          &kp ASTRK,         &kp MINUS,         &kp EQUAL,         &kp BSLH,          &kp N1,            &kp N2,            &kp N3,            &kp BSLH,          \
-U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              &kp MINUS,         &kp N0,            &kp DOT,           U_NP,              U_NP
+&kp CARET,         &kp AMPS,          &kp ASTRK,         &kp MINUS,         &kp EQUAL,         &kp ASTRK,         &kp N1,            &kp N2,            &kp N3,            &kp BSLH,          \
+U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              &kp EQUAL,         &kp N0,            &kp DOT,           U_NP,              U_NP
 
 #define MIRYOKU_LAYER_SYM \
 &kp EXCL,          &kp AT,            &kp HASH,          &kp DLLR,          &kp PRCNT,         &kp LBKT,          &kp LT,            &kp EQUAL,         &kp GT,            &kp RBKT,          \
 &kp LGUI,          &kp LALT,          &kp LCTRL,         &kp LSHFT,         U_NA,              &kp LBRC,          &kp LPAR,          &kp COLON,         &kp RPAR,          &kp RBRC,          \
-&kp CARET,         &kp AMPS,          &kp ASTRK,         &kp MINUS,         &kp EQUAL,         &kp PIPE,          &kp EXCL,          &kp AT,            &kp HASH,          &kp TILDE,         \
-U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              &kp UNDER,         &kp LPAR,          &kp RPAR,          U_NP,              U_NP
+&kp CARET,         &kp AMPS,          &kp ASTRK,         &kp MINUS,         &kp EQUAL,         &kp EXCL,          &kp EQUAL,         &kp AMPS,          &kp PIPE,          &kp SEMI,         \
+U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              &kp MINUS,         &kp UNDER,         &kp SEMI,          U_NP,              U_NP
